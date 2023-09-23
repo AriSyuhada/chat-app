@@ -75,3 +75,4 @@ Follow these steps to get Ruby on Rails service up and running:
 * Ruby on Rails: As server-side or backend service to serve API and cable connection for websocket
 * ReactJS: As client-side or frontend service to consume API, User Interface, and features logic
 * SQLite3: As database management system used for data storage
+* WebSocket: As real-time communication protocol between backend service and frontend service
