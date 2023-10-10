@@ -11,6 +11,10 @@ Chat-App
 - [Technologies Used](#technologies-used)
 - [Client Side Docs](./client/README.md)
 
+## Demo
+
+[Railway](https://chat-app-frontend-react-production.up.railway.app/)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
